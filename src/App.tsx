@@ -1,9 +1,8 @@
 import './App.css'
+import { Navigation } from "./components";
 
 const App = () => {
-  return (
-    <div></div>
-  )
-}
+  return <Navigation />;
+};
 
 export default App
